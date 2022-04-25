@@ -1,0 +1,12 @@
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.deps.json
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.dll
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.pdb
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\ref\DataAcessLayer.dll
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\bin\Debug\net6.0\ref\DataAcessLayer.dll
+C:\Users\samkh\source\repos\DukkantekAssignment\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.AssemblyReference.cache
