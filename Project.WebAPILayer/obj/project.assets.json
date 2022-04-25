@@ -1556,17 +1556,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "DataAcessLayer/1.0.0": {
+      "Project.DataAcessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.16"
         },
         "compile": {
-          "bin/placeholder/DataAcessLayer.dll": {}
+          "bin/placeholder/Project.DataAcessLayer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataAcessLayer.dll": {}
+          "bin/placeholder/Project.DataAcessLayer.dll": {}
         }
       }
     }
@@ -5843,16 +5843,16 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "DataAcessLayer/1.0.0": {
+    "Project.DataAcessLayer/1.0.0": {
       "type": "project",
-      "path": "../DataAcessLayer/DataAcessLayer.csproj",
-      "msbuildProject": "../DataAcessLayer/DataAcessLayer.csproj"
+      "path": "../Project.DataAcessLayer/Project.DataAcessLayer.csproj",
+      "msbuildProject": "../Project.DataAcessLayer/Project.DataAcessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DataAcessLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
+      "Project.DataAcessLayer >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -5863,11 +5863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
+      "projectUniqueName": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
       "projectName": "Project.WebAPILayer",
-      "projectPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
+      "projectPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
       "packagesPath": "C:\\Users\\samkh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\obj\\",
+      "outputPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5887,8 +5887,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj": {
-              "projectPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj"
+            "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj": {
+              "projectPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj"
             }
           }
         }

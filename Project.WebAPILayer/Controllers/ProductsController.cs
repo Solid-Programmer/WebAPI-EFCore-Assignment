@@ -1,7 +1,7 @@
-﻿using DataAcessLayer.Contracts;
-using DataAcessLayer.DataAccess.Interfaces;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Project.DataAcessLayer.Contracts;
+using Project.DataAcessLayer.DataAccess.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

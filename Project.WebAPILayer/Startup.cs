@@ -1,6 +1,3 @@
-using DataAcessLayer.DataAccess;
-using DataAcessLayer.DataAccess.Interfaces;
-using DataAcessLayer.DataAccess.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -15,6 +12,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Project.DataAcessLayer.DataAccess;
+using Project.DataAcessLayer.DataAccess.Repositories;
+using Project.DataAcessLayer.DataAccess.Interfaces;
 
 namespace Project.WebAPILayer
 {

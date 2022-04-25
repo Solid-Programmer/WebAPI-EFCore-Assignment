@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj": {}
+    "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj": {
+    "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj",
-        "projectName": "DataAcessLayer",
-        "projectPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj",
+        "projectName": "Project.DataAcessLayer",
+        "projectPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj",
         "packagesPath": "C:\\Users\\samkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\obj\\",
+        "outputPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj": {
+    "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
+        "projectUniqueName": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
         "projectName": "Project.WebAPILayer",
-        "projectPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
+        "projectPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\Project.WebAPILayer.csproj",
         "packagesPath": "C:\\Users\\samkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\obj\\",
+        "outputPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.WebAPILayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj": {
-                "projectPath": "C:\\Users\\samkh\\Source\\Repos\\WebAPI-EFCore-Assignment\\DataAcessLayer\\DataAcessLayer.csproj"
+              "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj": {
+                "projectPath": "C:\\Users\\samkh\\source\\repos\\WebAPI-EFCore-Assignment\\Project.DataAcessLayer\\Project.DataAcessLayer.csproj"
               }
             }
           }
