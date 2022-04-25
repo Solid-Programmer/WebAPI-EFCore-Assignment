@@ -1,3 +1,5 @@
+CREATE DATABASE [Inventory]
+
 USE [Inventory]
 GO
 
